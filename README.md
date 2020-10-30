@@ -1,0 +1,1 @@
+Fake hosting site landin page to train moder html and css skils.
